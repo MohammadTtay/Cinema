@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>welcomePage/close.png</file>
+        <file>welcomePage/logo.png</file>
+        <file>welcomePage/eye.png</file>
+        <file>userPage/close.png</file>
+        <file>userPage/minimize.png</file>
+        <file>userPage/background.jpg</file>
+        <file>welcomePage/welcome.jpg</file>
+        <file>userPage/film.png</file>
+        <file>userPage/search.png</file>
+        <file>userPage/user.jpg</file>
+        <file>userPage/LogOut.png</file>
+    </qresource>
+</RCC>
